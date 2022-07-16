@@ -1,0 +1,47 @@
+amethyst
+apricot
+auburn
+bronze
+cardinal
+carmine
+celadon
+cerise
+cerulean
+charcoal
+cinnamon
+copper
+crimson
+eggplant
+emerald
+fuchsia
+hot pink
+indigo
+lavender
+magenta
+mahogany
+maroon
+mustard
+navy blue
+orange
+orchid
+pastel
+pewter
+primary
+pumpkin
+purple
+rainbow
+russet
+saffron
+salmon
+sapphire
+scarlet
+sea green
+shamrock
+sienna
+silver
+spectrum
+thistle
+tomato
+violet
+wisteria
+yellow
